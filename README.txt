@@ -1,0 +1,1 @@
+To load data from a csv file to MySQL database and to do query in the database
